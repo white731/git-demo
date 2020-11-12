@@ -24,5 +24,5 @@
 ----------------------------------------with github----------------------------------------------
 
 - git push origin master (When a couple changes are done, or when teamate needs changes)
-
+- git pull origin master (when grabbing changes)
 -------------------------------------------------------------------------------------------------
