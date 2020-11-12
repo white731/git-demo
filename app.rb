@@ -16,8 +16,10 @@ default_menu = {
 }
 
 menu_test = Menu.new(menu2)
+menu_test.print()
 
-menu_test.print
+selection1 = menu_test.get_selection
+puts selection1
 
 # generally have message like 'Please select and option'
 # list of options
